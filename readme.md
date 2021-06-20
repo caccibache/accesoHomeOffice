@@ -37,7 +37,7 @@
 - Index / Home:
 - Empleos: Ofertar y buscar
 - Consultas: "Yahoo respuestas" hacia profesionales
-- Blog: 
+- Bog: 
 
 ## Oferta:
 - Requerimiento de equipo, empresa,
