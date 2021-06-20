@@ -42,8 +42,9 @@
   - trabajos por sección
   - publicar oferta de trabajo
      - nombre de puesto 
-     - sueldo
+     - sueldo (cantidad y si es bruto o neto)
      - Entidad geografica del puesto
+     - Informar sobre prestaciones
  
 - Blog sobre consejos y como mejorar nuestras posibilidades de empleo
 - Noticias sobre ferias de empleo
