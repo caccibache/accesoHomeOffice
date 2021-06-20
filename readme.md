@@ -58,6 +58,10 @@
   - Herramientas de organización
 
 -Sección informativa acerca de de como se a implementado  el Home office en distintos campos laborales.
+-Boton o link  para test de equipo y velocidad de internet y poder subir captura con los datos  y que esa misma información sirva a los ofertadores.
+-Enlaces y tips de herramientas tanto para empresas como para  usuarios pra mejorar y optimizar el trabajo remoto.
+-chat para  reclutadores y candidatos
+
 
 
 
