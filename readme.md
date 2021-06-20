@@ -45,7 +45,7 @@
 - Blog sobre consejos y como mejorar nuestras posibilidades de empleo
 - Noticias sobre ferias de empleo
 - Posibilidad de publicarse como Profesionistas Independientes (Freelance)
-  - Ranking de candidatos (
+  - Ranking de candidatos
 - Consultas: "Yahoo respuestas" hacia profesionales
  
 - Blog:
