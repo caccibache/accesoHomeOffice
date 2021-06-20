@@ -69,3 +69,10 @@
 - Requerimiento de equipo, empresa,
 - Datos de equipo que tiene
 - Subida CV 
+
+##Apariencia:
+-Violeta #7D2C78
+-blanco
+-negro
+Que de sencación de sobriedad, seriedad,  confianza y estilo  moderno, sin copiar a otras aplicaciones  colores e interfaz
+Akgo que represente podria ser por el color una nebulosa,  una nueva mirada de un vasto universo de posibilidades.
