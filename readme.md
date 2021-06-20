@@ -1,4 +1,12 @@
 # Proyecto Innosocial: Acceso al home office
+## Propuesta nombre:
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
 ## Resultados Google FORM:
 ###### Objetivos (FORMS):
 - Tal vez conectar abogados, contadores, expertos en la salud, agentes de seguros con trabajadores 
