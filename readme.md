@@ -27,6 +27,8 @@
 - Interconexión de profesionales, consultoria, etc.
 - Empleo: Subir CV; oferta/demanda
 - Cuenta de usario: Datos, perfil, contacto, etc.
+  - Tipo Control de estadisticas para visualizar que tipo de consultas y busquedas se hacen en los diferentes tipos de campos laborales.
+  - 
 
 ###### Imperativos legales:
 - Términos de uso
@@ -42,6 +44,7 @@
      - nombre de puesto 
      - sueldo
      - Entidad geografica del puesto
+ 
 - Blog sobre consejos y como mejorar nuestras posibilidades de empleo
 - Noticias sobre ferias de empleo
 - Posibilidad de publicarse como Profesionistas Independientes (Freelance)
@@ -51,6 +54,10 @@
 - Blog:
   - Infografías
   - herramientas de organización
+
+-Sección informativa acerca de de como se a implementado  el Home office en distintos campos laborales.
+
+
 
 ## Oferta:
 - Requerimiento de equipo, empresa,
