@@ -18,5 +18,27 @@
 - Algún buscador y perfil para subir su currículum 
 - Información y enlaces para consultoria acerca del tema. 
 - Si encontramos alguna noticia en internet que nos genere dudas, poder correr a esta aplicación y tener la certeza de que nos ayudará a resolverlas.
+- Noticias y artículos
 
 ## Estructura webbAPP:
+###### Features:
+- BLOG: Noticas/artículos
+- Tips: 
+- Interconexión de profesionales, consultoria, etc.
+- Empleo: Subir CV; oferta/demanda
+- 
+###### Imperativos legales:
+- Términos de uso
+- Políticas de cookies
+- Políticas de privacidad
+
+###### Estructura páginas:
+- Index / Home:
+- Empleos: Ofertar y buscar
+- Consultas: "Yahoo respuestas" hacia profesionales
+- Blog: 
+
+## Oferta:
+- Requerimiento de equipo, empresa,
+- Datos de equipo que tiene
+- Subida CV 
