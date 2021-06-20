@@ -36,8 +36,16 @@
 ###### Estructura páginas:
 - Index / Home:
 - Empleos: Ofertar y buscar
+  - lista de ofertas de trabajo
+  - trabajos por sección
+  - publicar oferta de trabajo
+     - nombre de puesto 
+     - sueldo
 - Consultas: "Yahoo respuestas" hacia profesionales
-- Bog: 
+  - 
+- Blog:
+  - Infografías
+  - herramientas de organización
 
 ## Oferta:
 - Requerimiento de equipo, empresa,
