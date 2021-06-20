@@ -26,7 +26,8 @@
 - Tips: 
 - Interconexión de profesionales, consultoria, etc.
 - Empleo: Subir CV; oferta/demanda
-- 
+- Cuenta de usario: Datos, perfil, contacto, etc.
+
 ###### Imperativos legales:
 - Términos de uso
 - Políticas de cookies
